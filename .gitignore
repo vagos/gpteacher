@@ -1,0 +1,8 @@
+# Large data files
+*.webm
+
+# Cache
+.ipynb_checkpoints
+
+# Testing folder
+test
